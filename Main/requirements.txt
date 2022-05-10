@@ -1,0 +1,6 @@
+pymongo
+Flask
+pytest
+flask
+pymongo[srv]
+requests
